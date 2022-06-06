@@ -1,4 +1,4 @@
-# Updating the Panel
+# Atualizando o paine2
 
 This documentation covers the process for updating within the `1.x` series of releases. This means updating from
 &mdash; for example &mdash; `1.5.0` to `1.6.0`. **Do not use this guide for upgrading from `0.7`.**
